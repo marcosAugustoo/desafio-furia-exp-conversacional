@@ -13,7 +13,7 @@ Clique no link abaixo para testar o chatbot:
 
 ## 📸 Demonstração
 
-![GIF do Chatbot](furia_img_white.gif)  
+![GIF do Chatbot](https://s4.ezgif.com/tmp/ezgif-4824a289dfba87.gif)  
 *Interaja com o chatbot para receber informações sobre o time FURIA!*
 
 ## ⚙️ Tecnologias
